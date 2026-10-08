@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java build output
+bin/
+target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
